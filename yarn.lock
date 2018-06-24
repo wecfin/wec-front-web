@@ -1530,6 +1530,10 @@ gap-front-request@^2.0.0:
   dependencies:
     gap-front-form "^1.0.0"
 
+gap-front-routing@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/gap-front-routing/-/gap-front-routing-1.0.5.tgz#cfe01bee32ce2791af21b0467070b2884ce4fb18"
+
 gauge@~2.7.3:
   version "2.7.4"
   resolved "https://registry.yarnpkg.com/gauge/-/gauge-2.7.4.tgz#2c03405c7538c39d7eb37b317022e325fb018bf7"
