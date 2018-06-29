@@ -33,7 +33,7 @@ export class WebRouter {
     getRoute(name, params = {}) {
         const route = this.routes[name];
         if (!route) {
-            throw new Error('cannot found route ' + route);
+            throw new Error('cannot found route: ' + name);
         }
         route.params = params;
         return route;
